@@ -1,0 +1,66 @@
+.my-text{
+  color:white;
+}
+.nav.navbar-nav.navbar-right li a {
+  color: white;
+}
+.navbar-default{
+  background-color: black;
+  color: blue;
+}
+.div-home{
+  padding-top: 15%;
+  padding-bottom: 20%;
+  background-size: 100%;
+  background: url('https://ap.imagensbrasil.org/images/broad-band-internet-optic-fiber-lan-rj45-network-light-3867x2578_2c5b6f.jpg') no-repeat center fixed;  
+}
+.div-home-center {
+  color: white;
+  background-color: black;
+  opacity: 0.9;
+}
+.div-about{
+  background-color: black;
+  color: white;
+  padding-top: 10%;
+  padding-bottom: 15%;
+  
+}
+.div-portfolio{
+  padding-top: 10%;
+  padding-bottom: 20%;
+  background-size: 100%;
+  background: url('https://ap.imagensbrasil.org/images/Sydneyskyline.jpg') no-repeat center center fixed;  
+}
+.portfolio-item{
+  background-color: black;
+  border-radius: 2%;
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+}
+
+.div-contact{
+  background-color: CornflowerBlue;
+  color: white;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+.bnt-social{
+  border-radius: 50%;
+  border-color:  CornflowerBlue;
+  border-width: 2px;
+  border-style: solid;
+  color:  CornflowerBlue;
+  background-color: white;
+}
+.div-line{
+  background-color: white;
+  height: 1px;
+}
+.div-footer{
+  background-color: black;
+  padding-top: 15px;
+  height: 50px;
+}
+  
